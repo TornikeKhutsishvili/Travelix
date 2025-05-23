@@ -21,7 +21,7 @@ CSS3
 
 Bootstrap 4
 
-JavaScript (Vanilla)
+JavaScript
 
 Responsive Design
 
