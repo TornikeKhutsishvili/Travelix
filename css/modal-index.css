@@ -1,0 +1,9 @@
+.modal-header .close {
+    padding: 1rem 1rem;
+    margin: -1rem 1rem -1rem auto;
+}
+
+#ExampleModal.modal.fade.show {
+    padding: 190px 0px 120px !important;
+    height: 100%;
+}

@@ -1,0 +1,30 @@
+.modal-header {
+    padding-top: 200px !important;
+}
+
+.modal-header .close {
+    padding: 1rem 1rem;
+    margin: -1rem -2rem -1rem auto;
+}
+
+
+
+/* responsive */
+
+@media screen and (max-width: 486px) {
+    .close span{
+        margin-left: 50px;
+    }
+}
+
+@media screen and (max-width: 398px) {
+    .close span{
+        margin-left: -50px;
+    }
+}
+
+@media screen and (max-width: 283px) {
+    .close span{
+        margin-left: 50px;
+    }
+}
