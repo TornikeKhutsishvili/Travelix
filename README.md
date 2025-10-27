@@ -20,7 +20,8 @@
 ```bash
 git clone https://github.com/TornikeKhutsishvili/Travelix
 cd Travelix
+```
 
 
-## Author
+# Author
 Tornike Khutsishvili – Frontend Developer
