@@ -1,5 +1,4 @@
-/* general */
-
+/******* general *******/
 *{
     padding: 0px;
     margin: 0px;
@@ -12,6 +11,7 @@ body{
     background: #fff;
     color: #a5a5a5;
 }
+
 
 
 /********** Registration & Login Containers **********/
@@ -94,7 +94,7 @@ body{
 
 
 
-
+/******** Responsive ********/
 @media screen and (max-width: 768px){
     .register_form form,
     .login_form form {

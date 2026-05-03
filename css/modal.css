@@ -1,3 +1,4 @@
+/********** Modal **********/
 .modal-header {
     padding-top: 200px !important;
 }
@@ -9,8 +10,7 @@
 
 
 
-/* responsive */
-
+/********** responsive **********/
 @media screen and (max-width: 486px) {
     .close span{
         margin-left: 50px;
